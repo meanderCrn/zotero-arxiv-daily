@@ -19,7 +19,7 @@ llm:
 
 source:
   arxiv:
-    category: ["cs.AI","cs.CV","cs.LG","cs.CL"]
+    category: ["physics.flu-dyn","physics.comp-ph","math.NA","math.OC","cs.LG","stat.ML","cs.NE","cs.AI","cs.CE","cs.CG","cs.GR","cs.MS"]
 
 executor:
   debug: ${oc.env:DEBUG,null}
